@@ -98,7 +98,14 @@ The system is benchmarked on:
 
 ## 🔧 Installation & Setup
 1. **Create Virtual Environment:**
+```bash
+python -m venv venv
 
+```
+```bash
+venv\Scripts\Activate
+
+```
 2. **Install dependencies:**
 ```bash
 pip install -r requirements.txt

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+venv/
+
+
+# VS Code
+.vscode/
+
+# Large AI files (DO NOT TRACK YET)
+*.npy
+*.index
+*.faiss
+*.bin
+*.pt
+*.pth
+*.csv
+data/
